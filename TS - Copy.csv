@@ -1,0 +1,11 @@
+name,description,update_comments,application_module,precondition,testdata,teststep,expected,automated,sanity,acceptance,regression,jira,project,created_by
+TS_21,des1,addding new,1,PC01,TD01,TS01,EX01,1,0,1,0,US-1,1,1
+TS_22,des2,addding new,2,PC02,TD02,TS02,EX02,1,0,0,0,US-2,1,1
+TS_23,des3,addding new,2,PC03,TD03,TS03,EX03,0,0,0,0,US-3,1,1
+TS_24,des4,addding new,3,PC04,TD04,TS04,EX04,0,0,0,1,US-4,1,1
+TS_25,des5,addding new,3,PC05,TD05,TS05,EX05,0,1,0,0,US-5,1,1
+TS_26,des1,addding new,1,PC01,TD01,TS01,EX01,1,0,1,0,EK-1,2,1
+TS_27,des2,addding new,2,PC02,TD02,TS02,EX02,1,0,0,0,EK-2,2,1
+TS_28,des3,addding new,2,PC03,TD03,TS03,EX03,0,0,0,0,EK-3,2,1
+TS_29,des4,addding new,3,PC04,TD04,TS04,EX04,0,0,0,1,EK-4,2,1
+TS_30,des5,addding new,3,PC05,TD05,TS05,EX05,0,1,0,0,EK-5,2,1
